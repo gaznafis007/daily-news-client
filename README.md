@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Live Site Link
+
+(https://daily-news-135fc.web.app/)
+
+# Server site Link
+
+(https://daily-news-server-zeta.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
